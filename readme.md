@@ -37,7 +37,7 @@ A comprehensive Python implementation of various quantum algorithms and circuits
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/kevincoe/quantum_computing_project.git
 cd quantum_computing_project
 ```
 
@@ -265,12 +265,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Qiskit Team** - For the excellent quantum computing framework
 - **IBM Quantum** - For quantum computing resources and education
 - **Quantum Computing Community** - For algorithms and educational materials
-
-## 📞 Support
-
-- 📧 Email: [your-email@example.com]
-- 💬 Issues: [GitHub Issues](link-to-issues)
-- 📚 Documentation: [Project Wiki](link-to-wiki)
 
 ## 🔗 Related Projects
 
